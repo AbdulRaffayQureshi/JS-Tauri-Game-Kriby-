@@ -8,8 +8,6 @@ Supports multiple inputs (Mouse, Keyboard and Gamepad)
 
 Download for Windows here : [https://jslegend.itch.io/kriby](https://jslegend.itch.io/kriby)
 
-Tutorial on how to build this : [https://www.youtube.com/watch?v=mbljv1EkrRQ](https://www.youtube.com/watch?v=mbljv1EkrRQ)
-
 ## How to run?
 
 1. Make sure you have the prerequisites : [https://tauri.app/v1/guides/getting-started/prerequisites](https://tauri.app/v1/guides/getting-started/prerequisites)
