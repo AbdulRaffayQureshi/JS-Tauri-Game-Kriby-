@@ -1,6 +1,6 @@
 # Desktop Game made in JavaScript + Tauri
 
-![game screenshot](./game.png)
+![game screenshot]((https://github.com/AbdulRaffayQureshi/JS-Tauri-Game-Kriby-/blob/main/Desktop-JS-Game-Tauri/game.png?raw=true))
 
 Flappy bird style game made with the Kaplay library and Tauri. It features a basic save system where your best score is saved on disk.
 
