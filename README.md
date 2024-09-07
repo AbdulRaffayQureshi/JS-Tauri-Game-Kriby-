@@ -40,7 +40,7 @@ Learn more about Tauri : [https://tauri.app/](https://tauri.app/)
 
 Kaplay is a very high-level library for making games. It allows you to make games really fast. I use it because it's very productive.
 
-It was previously called Kaboom. I have plenty of tutorials on my YouTube channel : https://www.youtube.com/@jslegenddev
+It was previously called Kaboom.
 
 Learn more about Kaplay : [https://kaplayjs.com/](https://kaplayjs.com/)
 
